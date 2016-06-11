@@ -6,5 +6,7 @@ This is my GIT test at home, eleventh of July, year two thousand and sixteen. (1
 - Installed linux mint 17.3
 - Installed GIT
 - Created a new repository(through the GUI Interface)
-- edited a file
-- commited to
+- Created a new branch(besides the master branch)
+- Edited the readme in the new branch
+- Merged the branch with the master branch
+
